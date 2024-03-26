@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @ArunNandam
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science and building End to End ML Solutions
-
-# Arun Kumar Nandam
-
-## About Me
-
-Passionate Data Scientist with 2 years of industry experience, specializing in Python, PySpark, Machine Learning, and Statistics. 
+<h1 align="center">Hi 👋, I'm Arun Kumar Nandam</h1>
+<h3 align="center">Passionate Data Scientist with 2 years of industry experience, specializing in Python, PySpark, Machine Learning, and Statistics | Computer Science Graduate Student at Illinois Tech</h3>
 
 ### Expertise
 [![Python](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/) 
@@ -15,28 +8,24 @@ Passionate Data Scientist with 2 years of industry experience, specializing in P
 [![Statistics](https://img.shields.io/badge/Statistics-Expert-yellow)](https://en.wikipedia.org/wiki/Statistics)
 
 💼 **Experience:**
-- Data Scientist at [Company Name], [Duration]
-- [Any relevant projects or achievements]
+- Data Scientist at [Infosys], [2.1 Years]
 
 🔭 **Currently Working On:** 
-- [Current project or learning goal]
+- 🔭 I’m currently working on [Obesity Risk Prediction](https://github.com/arunnandam/Obesity-Risk-Prediction)
+- 🔭 Building End-to-End Machine Learning Applications
 
 🌱 **Currently Learning:** 
-- [What are you currently learning or improving upon?]
+- Currently learning Mathematical Intuition behind Machine Learning Algorithms
+- Learning Time Series Analysis
+- Learning Advanced SQL
 
 📫 **How to reach me:** 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) 
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [LinkedIn](https://www.linkedin.com/in/arunkumar-nandam)
+- 👀 Feel free to [reach out to me](mailto:abc@gmail.com) for any inquiries or collaborations on Data Science projects. Collaboration opportunities are always welcomed and can help us advance together!
 
-⚡ **Fun fact:** 
-- [Share a fun or interesting fact about yourself]
-
-
-<h1 align="center">Hi 👋, I'm Arun Kumar Nandam</h1>
-<h3 align="center">A passionate Data Scientist and Graduate Student at Illinois Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunnandam&label=Profile%20views&color=0e75b6&style=flat" alt="arunnandam" /> </p>
-
+<!---
 - 🔭 I’m currently working on [Obesity Risk Prediction](https://github.com/arunnandam/Obesity-Risk-Prediction)
 
 - 🌱 I’m currently doing **End to End Machine Learning Projects**
@@ -57,7 +46,7 @@ Passionate Data Scientist with 2 years of industry experience, specializing in P
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunnandam&" alt="arunnandam" /></p>
 
-
+--->
 <!---
 ArunNandam/ArunNandam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
