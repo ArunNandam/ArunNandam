@@ -20,7 +20,6 @@
 - Learning Advanced SQL
 
 📫 **How to reach me:** 
-- [LinkedIn](https://www.linkedin.com/in/arunkumar-nandam)
 - 👀 Feel free to [reach out to me](mailto:abc@gmail.com) for any inquiries or collaborations on Data Science projects. Collaboration opportunities are always welcomed and can help us advance together!
 
 
