@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar Nandam</h1>
-<h3 align="center">Passionate Data Scientist with 2 years of industry experience, specializing in Python, PySpark, Machine Learning, and Statistics | Computer Science Graduate Student at Illinois Tech</h3>
+<h3 align="center">Passionate Data Enthusiast | Computer Science Graduate Student at Illinois Tech</h3>
 
 ### Expertise
 [![Python](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/) 
