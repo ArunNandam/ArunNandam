@@ -7,11 +7,8 @@
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)](https://scikit-learn.org/stable/) 
 [![Statistics](https://img.shields.io/badge/Statistics-Expert-yellow)](https://en.wikipedia.org/wiki/Statistics)
 
-💼 **Experience:**
-- Data Scientist at [Infosys], [2.1 Years]
 
 🔭 **Currently Working On:** 
-- 🔭 I’m currently working on [Obesity Risk Prediction](https://github.com/arunnandam/Obesity-Risk-Prediction)
 - 🔭 Building End-to-End Machine Learning Applications
 
 🌱 **Currently Learning:** 
